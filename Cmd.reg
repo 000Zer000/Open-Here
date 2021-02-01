@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Cmd_1]
+ @="Open Command Prompt Here"
+ "Icon"="C:\\Windows\\System32\\cmd.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Cmd_1\command]
+ @="C:\\Windows\\System32\\cmd.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Cmd_1\_author]
+ @="000Zer000"
+ "profile"="https://github.com/000Zer000"

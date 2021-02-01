@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Powershell_ISE]
+ @="Open Powershell ISE here"
+ "Icon"="C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell_ise.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Powershell_ISE\command]
+ @="C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell_ise.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Powershell_ISE\_author]
+ @="000Zer000"
+ "profile"="https://github.com/000Zer000"
