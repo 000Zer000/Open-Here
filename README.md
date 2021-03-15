@@ -19,7 +19,7 @@ I always used these registry files and now wanted to share it.
 Simply clone this repo:
 
 ```shell
-git clone https://github.com/000Zer000/Open-Here
+git clone https://github.com/TheOddZer0/Open-Here
 ```
 
 You can run `Install.bat` as **Administrator** to let it import the registries for your or **if you are DIY person 
@@ -35,9 +35,9 @@ then you can double click each registry file**:
 
 ## Contacting me
 
-You can reach me by emailing me (`000Zer000@protonmail.com`)
+You can reach me by emailing me (`TheOddZer0@protonmail.com`)
 
 ## License
 
 This repo is licensed under Apache 2.0, 
-Read [COPYING](https://github.com/000Zer000/Open-Here/blob/main/COPYING) file for more info.
+Read [COPYING](https://github.com/TheOddZer0/Open-Here/blob/main/COPYING) file for more info.
