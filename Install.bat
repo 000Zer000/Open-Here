@@ -20,8 +20,7 @@ ECHO Importing Powershell.reg
 REG IMPORT "%CWD%Powershell.reg" >nul 2>&1
 
 ECHO Importing Powershell_ISE.reg
-REG IMPORT "%CWD%Powershell_ISE.reg" >nul 2>&1
+REG IMPORT "%CWD%Powershell_ISE.reg"
 
-ECHO Operation was successful
 PAUSE
-EXIT /B 1
+EXIT /B 0
